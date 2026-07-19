@@ -1,17 +1,57 @@
-# flutter_landing_page_design
+# 🎧 Flutter Audio Store UI
 
-A new Flutter project.
+A modern **Audio Store UI** built entirely by me using **Flutter**. This project was designed and developed from scratch with a strong focus on creating a clean, premium, and visually appealing shopping experience for audio products.
 
-## Getting Started
+The interface features a dark theme, custom promotional banner, colorful product cards, glassmorphism-inspired effects, and reusable widgets to achieve a polished and modern design.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🎧 Premium Audio Store Interface
+* 🎨 Custom UI Designed from Scratch
+* 🛍️ Modern Product Cards
+* 🖼️ Custom Promotional Banner
+* ✨ Glassmorphism-Inspired Design
+* 🎵 Audio Product Categories
+* ♻️ Reusable Flutter Widgets
+* 🌈 Custom Color Palette
+* ⚡ Clean & Organized UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Material Design
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/maryam-masood12/flutter-audio-store-ui.git
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## 🎯 About This Project
+
+This project was created to practice building a premium e-commerce user interface in Flutter. Every section of the application—including the layout, product cards, banner, color combinations, and reusable widgets—was implemented by me to improve my Flutter UI development skills and create a modern shopping experience.
+
+## 👩‍💻 Developer
+
+**Maryam Masood**
+
+Flutter Developer | Computer Science Student
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
