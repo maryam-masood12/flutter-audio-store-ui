@@ -12,10 +12,12 @@ The interface features a dark theme, custom promotional banner, colorful product
 * 🛍️ Modern Product Cards
 * 🖼️ Custom Promotional Banner
 * ✨ Glassmorphism-Inspired Design
-* 🎵 Audio Product Categories
+* 📂 Horizontal Category Scrolling
+* 📜 Vertical Product Scrolling
 * ♻️ Reusable Flutter Widgets
 * 🌈 Custom Color Palette
 * ⚡ Clean & Organized UI
+
 
 ## 🛠️ Technologies Used
 
@@ -45,7 +47,8 @@ flutter run
 
 ## 🎯 About This Project
 
-This project was created to practice building a premium e-commerce user interface in Flutter. Every section of the application—including the layout, product cards, banner, color combinations, and reusable widgets—was implemented by me to improve my Flutter UI development skills and create a modern shopping experience.
+This project was created to strengthen my Flutter UI development skills by building a modern audio store interface from scratch. It includes a custom promotional banner, horizontally scrollable product categories, vertically scrollable product sections, reusable widgets, and a glassmorphism-inspired design to create a clean and premium shopping experience.
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/70647383-5f14-4457-8deb-cfeb29cfd260" width="300" alt="Flutter Audio Store UI"/>
